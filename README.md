@@ -1,4 +1,4 @@
-# Olá, Eu me chamo César
+# Hi, my name is César
 
 *Education*
 
